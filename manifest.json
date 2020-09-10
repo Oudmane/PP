@@ -3,6 +3,7 @@
     "description": "Show big PP and small PP instead of upvote and downvote on reddit",
     "version": "1.0.0",
     "manifest_version": 2,
+    "author": "Ayoub Oudmane",
     "browser_action": {
         "default_popup": "action.html",
         "default_icon": {
