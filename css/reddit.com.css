@@ -1,0 +1,10 @@
+.icon-upvote:before {
+    content: "PP"!important;
+    font-family: inherit!important;
+    font-size: 130%;
+}
+.icon-downvote:before {
+    content: "pp"!important;
+    font-family: inherit!important;
+    font-size: 70%;
+}
